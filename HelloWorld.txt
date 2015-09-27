@@ -1,3 +1,4 @@
 printf("Hello Git world!");
 printf("Hello Everybody!");
-printf("Повторение - мать учения!")
+printf("Повторение - мать учения!");
+printf("Hello!");
