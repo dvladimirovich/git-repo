@@ -1,2 +1,3 @@
 printf("We are at the testing of master branch!;");
 printf("I want to test conflicts!");
+printf("After creation of a new branch about testing conflicts!");
