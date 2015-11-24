@@ -1,1 +1,2 @@
 printf("We are at the testing of master branch!;");
+printf("After creation of a new branch about testing conflicts!");
