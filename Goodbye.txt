@@ -1,3 +1,4 @@
 printf("Goodbye World!;");
 printf("Goodbye!;");
-printf("Goodbye World! Today date: 24.11.2015;"); 
+printf("Goodbye World! Today date: 24.11.2015;");
+printf("Не стоит много изменений делать при 1 коммите, особенно не связанных между собой.") 
