@@ -2,3 +2,6 @@ printf("Hello Git world!;");
 printf("Hello Everybody!;");
 printf("Повторение - мать учения!;");
 printf("Hello!;");
+
+printf("Hello my dear friend!;");
+printf("Glad to see you!;");
