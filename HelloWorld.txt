@@ -5,3 +5,5 @@ printf("Hello!;");
 
 printf("Hello my dear friend!;");
 printf("Glad to see you!;");
+
+printf("Work with git console!");
